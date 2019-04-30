@@ -81,8 +81,9 @@
     "storage-memory": "0.0.2"
   },
   "peerDependencies": {
-    "redux": ">3.0.0",
-    "@react-native-community/async-storage": "^1.2.2"
+    "redux": ">3.0.0"
   },
-  "dependencies": {}
+  "dependencies": {    
+    "@react-native-community/async-storage": "^1.2.2"
+  }
 }
